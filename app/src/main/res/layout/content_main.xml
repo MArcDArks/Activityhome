@@ -43,7 +43,7 @@
         android:text="HOLA ANGEL, Bienvenido a medico en linea, tu salud es nuestra prioridad"
         android:textAlignment="center"
         android:textColor="@android:color/black"
-        android:textSize="24sp"
+        android:textSize="26sp"
         android:typeface="normal"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
